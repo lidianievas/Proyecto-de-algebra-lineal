@@ -4,7 +4,7 @@ Proyecto realizado para la Universidad de Lorraine durante mi Erasmus en el curs
 
 ## 📂 Sobre este proyecto
 
-En este proyecto he implementado diversas técnicas de álgebra lineal usando **MATLAB**, demostrando mi capacidad para manejar sistemas lineales, operaciones con matrices y cálculo de valores propios, entre otras herramientas clave del área.
+En este proyecto he implementado diversas técnicas de álgebra lineal usando **MATLAB** para analizar el PageRank de Google, demostrando mi capacidad para manejar sistemas lineales, operaciones con matrices y cálculo de valores propios, entre otras herramientas clave del área.
 
 ## 🔍 Contenido principal
 
